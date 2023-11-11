@@ -37,5 +37,5 @@ To set up and run this project on your local machine, follow these steps:
    ```bash
    npm start
 
-The application should now be accessible at http://localhost:3000.
+  The application should now be accessible at http://localhost:3000.
 
