@@ -22,6 +22,7 @@ To set up and run this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/akhileshharkude/MiniProjFinal.git
 2. Install Dependencies: Navigate to the project directory and install both client and server dependencies.
+    ```bash
     cd MiniProjFinal
     cd client
     npm install
@@ -33,6 +34,8 @@ To set up and run this project on your local machine, follow these steps:
 4. Update MongoDB Connection String: Open server/index.js and update the MongoDB connection string on line 19 with your database connection details.
 
 5. Start the Development Server: Run the following command to start both the server and the client.
-    npm start
-   The application should now be accessible at http://localhost:3000.
+   ```bash
+   npm start
+
+The application should now be accessible at http://localhost:3000.
 
