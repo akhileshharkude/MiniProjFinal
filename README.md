@@ -8,11 +8,10 @@ PESU Placement Forum is a web application built using the MERN (MongoDB, Express
 
 - **User Interactions**: Users can engage with posts by leaving comments and upvoting or liking posts, promoting engagement and collaboration within the community.
 
-- **Security**: We have implemented robust security measures, including user authentication and authorization, to protect user data and the integrity of the forum. The project includes Google authentication for user registration and login . In future releases, we can the to implement Google organization-specific authentication.
-
+- **Security**: We have implemented robust security measures, including user authentication and authorization, to protect user data and the integrity of the forum. 
 - **Moderation Tools**: To maintain a positive and constructive atmosphere, we have incorporated moderation tools to manage content and user behavior.
 
-- **Authentication**: The project includes Google authentication for user registration and login. Users can authenticate using their Google accounts.
+- **Authentication**: The project includes Google authentication for user registration and login. Users can authenticate using their Google accounts. In future releases, we can the to implement Google organization-specific authentication as well .
 
 ## Getting Started
 
